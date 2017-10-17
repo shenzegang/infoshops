@@ -1,0 +1,1 @@
+<?php defined('CorShop') or exit('Access Invalid!'); return array ( '93C617D9ED6A467C8703BCE5B1891959' => array ( 'welfareName' => '积分', 'createTime' => '2015-09-18T03:11:31.000+0000', 'isDel' => false, 'updateTime' => NULL, 'isUse' => false, 'exchangeRate' => 0.01, 'welfareId' => '93C617D9ED6A467C8703BCE5B1891959', ), ) ?>
